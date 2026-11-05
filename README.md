@@ -1,25 +1,29 @@
+# Olá, sou Eliakim Cohen
 
-<h1 align="center">Olá, meu nome é Eliakim Cohen</h1>
-<h3 align="center">Sou um estudante de engenharia de software dedicado a me aprimorar a cada dia.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+Estudante de **Engenharia de Software na Cruzeiro do Sul**, construindo minha base em desenvolvimento com Python, dados e automação. Aprendo desenvolvendo projetos pequenos, testando decisões e entendendo como cada parte funciona.
 
-- 🔭 Atualmente estou aprofundando meus estudos em **React**
+## O que estou aprendendo e praticando
 
-- 👨‍💻 Tenho interesse em aprender mais sobre o **Tailwind**
+- **Python e backend:** aplicações com Django, APIs, ferramentas de linha de comando e organização de código.
+- **Dados:** SQL e SQLite, leitura de CSV e JSON, parsing, validação e tratamento de inconsistências.
+- **Qualidade de software:** testes automatizados, reprodução de problemas e documentação de resultados.
+- **IA aplicada:** estudo de integração com modelos de linguagem, classificação de textos, avaliação de respostas e revisão humana. Estou explorando quando usar um modelo e quando regras simples resolvem melhor o problema.
+- **Desenvolvimento web:** sigo ampliando minha base em HTML, CSS, JavaScript e React.
 
-- 💬 Contato: **develiakimc@gmail.com**
+## Projetos que mostram esse aprendizado
 
-<h4 align="left">Contate-me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/eliakim-cohen-58285a27a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliakim-cohen-58285a27a" height="30" width="40" /></a>
-</p>
+| Projeto | O que estou desenvolvendo e aprendendo |
+| --- | --- |
+| [CatalogLens](https://github.com/EliakimCohen/cataloglens) | Validação de catálogos com Python e SQLite: importação de CSV/JSON, regras de qualidade, identificação de conflitos e testes. Inclui um adaptador opcional para Claude, validado com mocks; a integração real ainda é uma etapa de estudo. |
+| [ChamadoClaro](https://github.com/EliakimCohen/chamadoclaro) | Triagem de chamados com categorias, prioridades e justificativas, mantendo revisão humana e histórico em SQLite. A versão atual usa regras explicáveis e serve como base para estudar classificação com IA. |
+| [Tarefas API](https://github.com/EliakimCohen/tarefas-api) | Prática de backend com Django, endpoints JSON, autenticação por sessão e testes. |
+| [Gastos CSV](https://github.com/EliakimCohen/gastos-csv) | Leitura e validação de arquivos CSV, com atenção ao tratamento de valores monetários em Python. |
+| [Candidatura CLI](https://github.com/EliakimCohen/candidatura-cli) | Organização de candidaturas pela linha de comando, com persistência em SQLite. |
 
+Esses projetos fazem parte da minha formação. Procuro registrar decisões, limitações e próximos passos para conseguir explicar o que construí e continuar evoluindo.
 
-<h4 align="left">Linguagens e ferramentas:</h4>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  </p>
+## Um pouco mais sobre mim
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliakimcohen&show_icons=true&locale=en&layout=compact" alt="eliakimcohen" /></p>
+Estou no **6º período**, com conclusão prevista para **outubro de 2027**, e busco uma oportunidade de **estágio remoto** para aprender com uma equipe e contribuir em problemas reais. Tenho **inglês C2**, com disponibilidade para entrevistas técnicas e documentação em inglês.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliakimcohen&show_icons=true&locale=en" alt="eliakimcohen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliakimcohen&" alt="eliakimcohen" /></p>
+[LinkedIn](https://www.linkedin.com/in/eliakim-cohen/) · [E-mail](mailto:kimcohen.26@gmail.com)
