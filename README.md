@@ -1,29 +1,29 @@
-# Olá, sou Eliakim Cohen
+# Hi, I'm Eliakim Cohen
 
-Estudante de **Engenharia de Software na Cruzeiro do Sul**, construindo minha base em desenvolvimento com Python, dados e automação. Aprendo desenvolvendo projetos pequenos, testando decisões e entendendo como cada parte funciona.
+I'm a **Software Engineering student at Cruzeiro do Sul University**, building a strong foundation in Python development, data, and automation. I learn by creating small projects, testing different approaches, and understanding how each part works.
 
-## O que estou aprendendo e praticando
+## What I'm Learning and Practicing
 
-- **Python e backend:** aplicações com Django, APIs, ferramentas de linha de comando e organização de código.
-- **Dados:** SQL e SQLite, leitura de CSV e JSON, parsing, validação e tratamento de inconsistências.
-- **Qualidade de software:** testes automatizados, reprodução de problemas e documentação de resultados.
-- **IA aplicada:** estudo de integração com modelos de linguagem, classificação de textos, avaliação de respostas e revisão humana. Estou explorando quando usar um modelo e quando regras simples resolvem melhor o problema.
-- **Desenvolvimento web:** sigo ampliando minha base em HTML, CSS, JavaScript e React.
+- **Python and backend development:** Django applications, APIs, command-line tools, and code organization.
+- **Data:** SQL and SQLite, CSV and JSON processing, parsing, validation, and handling inconsistencies.
+- **Software quality:** automated testing, issue reproduction, and documenting results.
+- **Applied AI:** integrating language models, text classification, response evaluation, and human review. I'm exploring when a model is the right tool and when simple rules solve the problem more effectively.
+- **Web development:** continuing to strengthen my skills in HTML, CSS, JavaScript, and React.
 
-## Projetos que mostram esse aprendizado
+## Projects That Showcase My Learning
 
-| Projeto | O que estou desenvolvendo e aprendendo |
+| Project | What I'm Building and Learning |
 | --- | --- |
-| [CatalogLens](https://github.com/EliakimCohen/cataloglens) | Validação de catálogos com Python e SQLite: importação de CSV/JSON, regras de qualidade, identificação de conflitos e testes. Inclui um adaptador opcional para Claude, validado com mocks; a integração real ainda é uma etapa de estudo. |
-| [ChamadoClaro](https://github.com/EliakimCohen/chamadoclaro) | Triagem de chamados com categorias, prioridades e justificativas, mantendo revisão humana e histórico em SQLite. A versão atual usa regras explicáveis e serve como base para estudar classificação com IA. |
-| [Tarefas API](https://github.com/EliakimCohen/tarefas-api) | Prática de backend com Django, endpoints JSON, autenticação por sessão e testes. |
-| [Gastos CSV](https://github.com/EliakimCohen/gastos-csv) | Leitura e validação de arquivos CSV, com atenção ao tratamento de valores monetários em Python. |
-| [Candidatura CLI](https://github.com/EliakimCohen/candidatura-cli) | Organização de candidaturas pela linha de comando, com persistência em SQLite. |
+| [CatalogLens](https://github.com/EliakimCohen/cataloglens) | Catalog validation with Python and SQLite: CSV/JSON imports, quality rules, conflict detection, and testing. It includes an optional Claude adapter validated with mocks; live integration is still being explored. |
+| [ChamadoClaro](https://github.com/EliakimCohen/chamadoclaro) | Support ticket triage with categories, priorities, and explanations, while preserving human review and an SQLite history. The current version uses explainable rules and serves as a foundation for studying AI-based classification. |
+| [Tarefas API](https://github.com/EliakimCohen/tarefas-api) | Backend practice with Django, JSON endpoints, session-based authentication, and tests. |
+| [Gastos CSV](https://github.com/EliakimCohen/gastos-csv) | Reading and validating CSV files, with a focus on handling monetary values correctly in Python. |
+| [Candidatura CLI](https://github.com/EliakimCohen/candidatura-cli) | A command-line tool for organizing job applications, with SQLite persistence. |
 
-Esses projetos fazem parte da minha formação. Procuro registrar decisões, limitações e próximos passos para conseguir explicar o que construí e continuar evoluindo.
+These projects are part of my learning journey. I document decisions, limitations, and next steps so I can clearly explain what I've built and keep improving.
 
-## Um pouco mais sobre mim
+## A Little More About Me
 
-Estou no **6º período**, com conclusão prevista para **outubro de 2027**, e busco uma oportunidade de **estágio remoto** para aprender com uma equipe e contribuir em problemas reais. Tenho **inglês C2**, com disponibilidade para entrevistas técnicas e documentação em inglês.
+I'm currently in my **6th semester** and looking for a **remote internship** where I can learn from a team and contribute to real-world problems. I have **C2-level English proficiency** and am comfortable with technical interviews and documentation in English.
 
-[LinkedIn](https://www.linkedin.com/in/eliakim-cohen/) · [E-mail](mailto:kimcohen.26@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eliakim-cohen/) · [Email](mailto:kimcohen.26@gmail.com)
